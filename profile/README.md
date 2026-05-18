@@ -21,18 +21,18 @@ Directed by **Dr. Leanne Hirshfield**
   <tr>
     <td align="center" valign="top" width="25%"><a href="https://github.com/agorm" title="agorm"><img src="https://avatars.githubusercontent.com/u/7025496?v=4" width="90" alt="agorm" /><br /><sub><b>Andy</b></sub></a></td>
     <td align="center" valign="top" width="25%"><a href="https://github.com/ango1715" title="ango1715"><img src="https://avatars.githubusercontent.com/u/187329596?v=4" width="90" alt="ango1715" /><br /><sub><b>ango1715</b></sub></a></td>
-    <td align="center" valign="top" width="25%"><a href="https://github.com/dita-hss" title="dita-hss"><img src="https://avatars.githubusercontent.com/u/101124244?v=4" width="90" alt="dita-hss" /><br /><sub><b>Amanda Hernandez</b></sub></a><br /><sub>PhD Student</sub></td>
     <td align="center" valign="top" width="25%"><a href="https://github.com/m-middleton" title="m-middleton"><img src="https://avatars.githubusercontent.com/u/23564575?v=4" width="90" alt="m-middleton" /><br /><sub><b>Michael Middleton</b></sub></a><br /><sub>PhD Student</sub></td>
+    <td align="center" valign="top" width="25%"><a href="https://github.com/dita-hss" title="dita-hss"><img src="https://avatars.githubusercontent.com/u/101124244?v=4" width="90" alt="dita-hss" /><br /><sub><b>Amanda Hernandez</b></sub></a><br /><sub>PhD Student</sub></td>
   </tr>
   <tr>
     <td align="center" valign="top" width="25%"><a href="https://github.com/Jalynnn" title="Jalynnn"><img src="https://avatars.githubusercontent.com/u/97772154?v=4" width="90" alt="Jalynnn" /><br /><sub><b>Jalynn Nicoly</b></sub></a><br /><sub>PhD Student</sub></td>
     <td align="center" valign="top" width="25%"><a href="https://github.com/ZCKaufman" title="ZCKaufman"><img src="https://avatars.githubusercontent.com/u/16629431?v=4" width="90" alt="ZCKaufman" /><br /><sub><b>Zachary Kaufman</b></sub></a><br /><sub>PhD Student</sub></td>
+    <td align="center" valign="top" width="25%"><a href="https://github.com/emilydoherty" title="emilydoherty"><img src="https://avatars.githubusercontent.com/u/88332460?v=4" width="90" alt="emilydoherty" /><br /><sub><b>Emily Doherty</b></sub></a><br /><sub>PhD Candidate</sub></td>
     <td align="center" valign="top" width="25%"><a href="https://github.com/aarnol" title="aarnol"><img src="https://avatars.githubusercontent.com/u/114937598?v=4" width="90" alt="aarnol" /><br /><sub><b>Alex Arnold</b></sub></a><br /><sub>PhD Student</sub></td>
-    <td align="center" valign="top" width="25%"><a href="https://github.com/cara-spencer" title="cara-spencer"><img src="https://avatars.githubusercontent.com/u/112533044?v=4" width="90" alt="cara-spencer" /><br /><sub><b>Cara Spencer</b></sub></a><br /><sub>PhD Candidate</sub></td>
   </tr>
   <tr>
+    <td align="center" valign="top" width="25%"><a href="https://github.com/cara-spencer" title="cara-spencer"><img src="https://avatars.githubusercontent.com/u/112533044?v=4" width="90" alt="cara-spencer" /><br /><sub><b>Cara Spencer</b></sub></a><br /><sub>PhD Candidate</sub></td>
     <td align="center" valign="top" width="25%"><a href="https://github.com/cgenevier" title="cgenevier"><img src="https://avatars.githubusercontent.com/u/1074752?v=4" width="90" alt="cgenevier" /><br /><sub><b>Charlotte Wyman</b></sub></a><br /><sub>PhD Student</sub></td>
-    <td align="center" valign="top" width="25%"><a href="https://github.com/emilydoherty" title="emilydoherty"><img src="https://avatars.githubusercontent.com/u/88332460?v=4" width="90" alt="emilydoherty" /><br /><sub><b>Emily Doherty</b></sub></a><br /><sub>PhD Candidate</sub></td>
     <td align="center" valign="top" width="25%"><a href="https://github.com/JamesCrum" title="JamesCrum"><img src="https://avatars.githubusercontent.com/u/58428004?v=4" width="90" alt="JamesCrum" /><br /><sub><b>James Crum</b></sub></a><br /><sub>Research Scientist I</sub></td>
     <td align="center" valign="top" width="25%"><a href="https://github.com/Lhirshfield" title="Lhirshfield"><img src="https://avatars.githubusercontent.com/u/78499135?v=4" width="90" alt="Lhirshfield" /><br /><sub><b>Dr. Leanne Hirshfield</b></sub></a><br /><sub>Lab Director</sub></td>
   </tr>
